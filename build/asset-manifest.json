@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6386ac2c.css",
+    "main.js": "/static/js/main.11083e16.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fitnessCenter.png": "/static/media/fitnessCenter.2b3351da93a48a83af3a.png",
+    "index.html": "/index.html",
+    "main.6386ac2c.css.map": "/static/css/main.6386ac2c.css.map",
+    "main.11083e16.js.map": "/static/js/main.11083e16.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6386ac2c.css",
+    "static/js/main.11083e16.js"
+  ]
+}

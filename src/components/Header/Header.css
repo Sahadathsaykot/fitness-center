@@ -1,0 +1,42 @@
+.header{
+    /* background-color: aliceblue; */
+}
+.logo-part{
+    display: flex;
+    align-items: center; 
+    font-size: 30px;
+    font-weight: 600;
+    color: #EB9F07;
+}
+.logo-part p{
+    margin-left: 10px;
+}
+nav img{
+    width: 90px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 140px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding-left: 30px;
+    font-size: 20px;
+}
+nav a:hover{
+    color:#C9821E;
+}
+
+@media (max-width: 600px){
+    nav{
+        padding: 0;
+    }
+}
+@media (min-width:601px) and (max-width: 900px){
+    nav{
+        padding: 0;
+    }
+}

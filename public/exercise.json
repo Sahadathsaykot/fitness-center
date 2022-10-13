@@ -1,0 +1,74 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Push-up",
+      "description": "Push up your body with arms which keeping your legs and back straight.",
+      "age": "18-45",
+      "time": 60,
+      "img": "https://www.kreedon.com/wp-content/uploads/2021/08/oYDbf5hQAePHEBNZTQMXRA.jpg"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Sit-up",
+      "description": "Lie on your back on the floor and rouse the top part your body to a sitting position. ",
+      "age": "18-30",
+      "time": 45,
+      "img": "https://cdn.mos.cms.futurecdn.net/WYnDy25TYWH6yvDzzsUxW9.jpg"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Plunk",
+      "description": "A long narrow flat piece of wood that is used for making floors, etc.",
+      "age": "22-30",
+      "time": 120,
+      "img": "https://cdn.create.vista.com/api/media/small/176118416/stock-photo-young-beautiful-woman-doing-plank"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Stretch",
+      "description": "An act of stretching out your arms or legs or your body and contracting the muscles.",
+      "age": "15-50",
+      "time": 40,
+      "img": "https://media.gq.com/photos/59a9a273dc3ba42b1cdca2e9/master/pass/2017-09_GQ-FITNESS-Stretching_3x2.jpg"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Pull-up",
+      "description": "An exercise in which you hold onto a high bar above your head and pull up towards it.",
+      "age": "22-30",
+      "time": 120,
+      "img": "https://www.muscleandfitness.com/wp-content/uploads/2019/12/Fit-Man-Performing-A-Pullup-In-The-Park.jpg"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Jogging",
+      "description": "The activity of running at a show regular speed, especially as a form of exercise.",
+      "age": "15-60",
+      "time": 300,
+      "img": "https://www.wellandgood.com/wp-content/uploads/2022/05/GettyImages-jogging-vs-running-MoMo-Productions.jpg"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "Jumping jacks",
+      "description": "Sometimes in a clap, and then returning to a position with the feet together.",
+      "age": "15-30",
+      "time": 80,
+      "img": "https://images.ctfassets.net/3s5io6mnxfqz/mPjNFhIXGEQbyDbF1FiIe/23426c3ae4d2ab81c32c4e07d234bbe6/AdobeStock_418407245_2.jpeg"
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "name": "Warm-up",
+      "description": "A warm-up is important before a run so as not to strain any muscles.",
+      "age": "15-30",
+      "time": 120,
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/warmup-exercises-1551307079.jpg"
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "name": "Barbell",
+      "description": "Tool used in weight training, bodybuilding, weightlifting with weights attached.",
+      "age": "25-30",
+      "time": 20,
+      "img": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2021/10/barbellTraining-1299508470-770x533-1-650x428.jpg"
+    }
+]

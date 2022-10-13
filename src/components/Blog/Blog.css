@@ -1,0 +1,24 @@
+.blogs{
+    margin: 40px 140px;
+
+}
+.blogs h2{
+    text-align: center;
+    font-weight: 600;
+}
+.blogs h4{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+@media (max-width: 600px){
+    .blogs{
+        margin: 10px;
+
+    }
+}
+@media (min-width:601px) and (max-width: 900px){
+    .blogs{
+        margin: 10px;
+    }
+}
